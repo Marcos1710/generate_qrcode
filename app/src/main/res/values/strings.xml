@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GenerateQRcodeKotlin</string>
+    <string name="gerador_de_qrcode">Gerador de QRcode</string>
+    <string name="gerar_qrcode">Gerar QRcode</string>
+</resources>
